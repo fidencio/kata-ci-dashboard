@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "2025-11-30T18:29:23.132Z",
+  "lastRefresh": "2025-11-30T21:19:39.623Z",
   "sections": [
     {
       "id": "nvidia-gpu",
@@ -16,7 +16,7 @@
           "status": "passed",
           "duration": "7m 1s",
           "lastFailure": "Never",
-          "lastSuccess": "18h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-21T00:00:00.000Z",
@@ -124,7 +124,7 @@
           "status": "passed",
           "duration": "15m 46s",
           "lastFailure": "Never",
-          "lastSuccess": "18h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-21T00:00:00.000Z",
@@ -242,7 +242,7 @@
           "status": "passed",
           "duration": "60m 11s",
           "lastFailure": "Yesterday",
-          "lastSuccess": "18h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-21T00:00:00.000Z",
@@ -349,7 +349,7 @@
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-on-tee (sev-snp, qemu-snp)",
           "status": "failed",
           "duration": "104m 25s",
-          "lastFailure": "18h ago",
+          "lastFailure": "20h ago",
           "lastSuccess": "4 days ago",
           "weatherHistory": [
             {
@@ -461,7 +461,7 @@
           "status": "passed",
           "duration": "39m 38s",
           "lastFailure": "Never",
-          "lastSuccess": "18h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-21T00:00:00.000Z",
@@ -569,7 +569,7 @@
           "status": "passed",
           "duration": "21m 34s",
           "lastFailure": "Yesterday",
-          "lastSuccess": "17h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-21T00:00:00.000Z",
@@ -677,7 +677,7 @@
           "status": "passed",
           "duration": "15m 46s",
           "lastFailure": "Never",
-          "lastSuccess": "18h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-21T00:00:00.000Z",
@@ -785,7 +785,7 @@
           "status": "passed",
           "duration": "40m 29s",
           "lastFailure": "Never",
-          "lastSuccess": "18h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-21T00:00:00.000Z",
@@ -893,7 +893,7 @@
           "status": "passed",
           "duration": "59m 3s",
           "lastFailure": "Never",
-          "lastSuccess": "16h ago",
+          "lastSuccess": "18h ago",
           "weatherHistory": [
             {
               "date": "2025-11-21T00:00:00.000Z",
@@ -1001,7 +1001,7 @@
           "status": "passed",
           "duration": "18m 2s",
           "lastFailure": "Never",
-          "lastSuccess": "18h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-21T00:00:00.000Z",
