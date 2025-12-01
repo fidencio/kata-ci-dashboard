@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "2025-12-01T04:12:26.890Z",
+  "lastRefresh": "2025-12-01T06:36:25.177Z",
   "sections": [
     {
       "id": "nvidia-gpu",
@@ -16,7 +16,7 @@
           "status": "passed",
           "duration": "10m 9s",
           "lastFailure": "Never",
-          "lastSuccess": "3h ago",
+          "lastSuccess": "6h ago",
           "weatherHistory": [
             {
               "date": "2025-11-22T00:00:00.000Z",
@@ -94,7 +94,7 @@
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
               "runId": "19791245507",
-              "jobId": "56707745155",
+              "jobId": "56757462399",
               "duration": "7m 1s",
               "failureStep": null,
               "failureDetails": null
@@ -103,7 +103,7 @@
               "date": "2025-12-01T00:00:00.000Z",
               "status": "passed",
               "runId": "19807099789",
-              "jobId": "56751133141",
+              "jobId": "56758021570",
               "duration": "10m 9s",
               "failureStep": null,
               "failureDetails": null
@@ -111,10 +111,10 @@
           ],
           "failureCount": 0,
           "failedTestsInWeather": [],
-          "retried": 1,
+          "retried": 2,
           "setupRetry": false,
           "runId": "19807099789",
-          "jobId": "56751133141",
+          "jobId": "56758021570",
           "error": null
         },
         {
@@ -124,7 +124,7 @@
           "status": "passed",
           "duration": "16m 32s",
           "lastFailure": "Never",
-          "lastSuccess": "3h ago",
+          "lastSuccess": "6h ago",
           "weatherHistory": [
             {
               "date": "2025-11-22T00:00:00.000Z",
@@ -202,7 +202,7 @@
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
               "runId": "19791245507",
-              "jobId": "56707745214",
+              "jobId": "56757462398",
               "duration": "15m 46s",
               "failureStep": null,
               "failureDetails": null
@@ -211,7 +211,7 @@
               "date": "2025-12-01T00:00:00.000Z",
               "status": "passed",
               "runId": "19807099789",
-              "jobId": "56751133090",
+              "jobId": "56758021651",
               "duration": "16m 32s",
               "failureStep": null,
               "failureDetails": null
@@ -219,10 +219,10 @@
           ],
           "failureCount": 0,
           "failedTestsInWeather": [],
-          "retried": 1,
+          "retried": 2,
           "setupRetry": false,
           "runId": "19807099789",
-          "jobId": "56751133090",
+          "jobId": "56758021651",
           "error": null
         }
       ]
@@ -242,7 +242,7 @@
           "status": "passed",
           "duration": "53m 20s",
           "lastFailure": "2 days ago",
-          "lastSuccess": "3h ago",
+          "lastSuccess": "6h ago",
           "weatherHistory": [
             {
               "date": "2025-11-22T00:00:00.000Z",
@@ -320,7 +320,7 @@
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
               "runId": "19791245507",
-              "jobId": "56707745236",
+              "jobId": "56757462559",
               "duration": "60m 11s",
               "failureStep": null,
               "failureDetails": null
@@ -329,7 +329,7 @@
               "date": "2025-12-01T00:00:00.000Z",
               "status": "passed",
               "runId": "19807099789",
-              "jobId": "56751133137",
+              "jobId": "56758021627",
               "duration": "53m 20s",
               "failureStep": null,
               "failureDetails": null
@@ -337,10 +337,10 @@
           ],
           "failureCount": 1,
           "failedTestsInWeather": [],
-          "retried": 1,
+          "retried": 2,
           "setupRetry": false,
           "runId": "19807099789",
-          "jobId": "56751133137",
+          "jobId": "56758021627",
           "error": null
         },
         {
@@ -349,7 +349,7 @@
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-on-tee (sev-snp, qemu-snp)",
           "status": "failed",
           "duration": "104m 21s",
-          "lastFailure": "3h ago",
+          "lastFailure": "6h ago",
           "lastSuccess": "5 days ago",
           "weatherHistory": [
             {
@@ -428,7 +428,7 @@
               "date": "2025-11-30T00:00:00.000Z",
               "status": "failed",
               "runId": "19791245507",
-              "jobId": "56707745166",
+              "jobId": "56757462519",
               "duration": "104m 25s",
               "failureStep": "Run tests",
               "failureDetails": null
@@ -437,7 +437,7 @@
               "date": "2025-12-01T00:00:00.000Z",
               "status": "failed",
               "runId": "19807099789",
-              "jobId": "56751133128",
+              "jobId": "56758021641",
               "duration": "104m 21s",
               "failureStep": "Run tests",
               "failureDetails": null
@@ -445,10 +445,10 @@
           ],
           "failureCount": 4,
           "failedTestsInWeather": [],
-          "retried": 1,
+          "retried": 2,
           "setupRetry": false,
           "runId": "19807099789",
-          "jobId": "56751133128",
+          "jobId": "56758021641",
           "error": {
             "step": "Run tests",
             "output": "View full log on GitHub for details"
@@ -461,7 +461,7 @@
           "status": "passed",
           "duration": "39m 16s",
           "lastFailure": "Never",
-          "lastSuccess": "3h ago",
+          "lastSuccess": "6h ago",
           "weatherHistory": [
             {
               "date": "2025-11-22T00:00:00.000Z",
@@ -539,7 +539,7 @@
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
               "runId": "19791245507",
-              "jobId": "56707745188",
+              "jobId": "56757462565",
               "duration": "39m 38s",
               "failureStep": null,
               "failureDetails": null
@@ -548,7 +548,7 @@
               "date": "2025-12-01T00:00:00.000Z",
               "status": "passed",
               "runId": "19807099789",
-              "jobId": "56751133095",
+              "jobId": "56758021616",
               "duration": "39m 16s",
               "failureStep": null,
               "failureDetails": null
@@ -556,10 +556,10 @@
           ],
           "failureCount": 0,
           "failedTestsInWeather": [],
-          "retried": 1,
+          "retried": 2,
           "setupRetry": false,
           "runId": "19807099789",
-          "jobId": "56751133095",
+          "jobId": "56758021616",
           "error": null
         },
         {
@@ -569,7 +569,7 @@
           "status": "passed",
           "duration": "21m 14s",
           "lastFailure": "2 days ago",
-          "lastSuccess": "3h ago",
+          "lastSuccess": "6h ago",
           "weatherHistory": [
             {
               "date": "2025-11-22T00:00:00.000Z",
@@ -647,7 +647,7 @@
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
               "runId": "19791245507",
-              "jobId": "56707744766",
+              "jobId": "56757461650",
               "duration": "21m 34s",
               "failureStep": null,
               "failureDetails": null
@@ -656,7 +656,7 @@
               "date": "2025-12-01T00:00:00.000Z",
               "status": "passed",
               "runId": "19807099789",
-              "jobId": "56751132683",
+              "jobId": "56758021507",
               "duration": "21m 14s",
               "failureStep": null,
               "failureDetails": null
@@ -664,10 +664,10 @@
           ],
           "failureCount": 1,
           "failedTestsInWeather": [],
-          "retried": 1,
+          "retried": 2,
           "setupRetry": false,
           "runId": "19807099789",
-          "jobId": "56751132683",
+          "jobId": "56758021507",
           "error": null
         },
         {
@@ -677,7 +677,7 @@
           "status": "passed",
           "duration": "16m 32s",
           "lastFailure": "Never",
-          "lastSuccess": "3h ago",
+          "lastSuccess": "6h ago",
           "weatherHistory": [
             {
               "date": "2025-11-22T00:00:00.000Z",
@@ -755,7 +755,7 @@
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
               "runId": "19791245507",
-              "jobId": "56707745214",
+              "jobId": "56757462398",
               "duration": "15m 46s",
               "failureStep": null,
               "failureDetails": null
@@ -764,7 +764,7 @@
               "date": "2025-12-01T00:00:00.000Z",
               "status": "passed",
               "runId": "19807099789",
-              "jobId": "56751133090",
+              "jobId": "56758021651",
               "duration": "16m 32s",
               "failureStep": null,
               "failureDetails": null
@@ -772,10 +772,10 @@
           ],
           "failureCount": 0,
           "failedTestsInWeather": [],
-          "retried": 1,
+          "retried": 2,
           "setupRetry": false,
           "runId": "19807099789",
-          "jobId": "56751133090",
+          "jobId": "56758021651",
           "error": null
         },
         {
@@ -785,7 +785,7 @@
           "status": "passed",
           "duration": "45m 19s",
           "lastFailure": "Never",
-          "lastSuccess": "3h ago",
+          "lastSuccess": "6h ago",
           "weatherHistory": [
             {
               "date": "2025-11-22T00:00:00.000Z",
@@ -863,7 +863,7 @@
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
               "runId": "19791245507",
-              "jobId": "56707745194",
+              "jobId": "56757462544",
               "duration": "40m 29s",
               "failureStep": null,
               "failureDetails": null
@@ -872,7 +872,7 @@
               "date": "2025-12-01T00:00:00.000Z",
               "status": "passed",
               "runId": "19807099789",
-              "jobId": "56751133182",
+              "jobId": "56758021745",
               "duration": "45m 19s",
               "failureStep": null,
               "failureDetails": null
@@ -880,10 +880,10 @@
           ],
           "failureCount": 0,
           "failedTestsInWeather": [],
-          "retried": 1,
+          "retried": 2,
           "setupRetry": false,
           "runId": "19807099789",
-          "jobId": "56751133182",
+          "jobId": "56758021745",
           "error": null
         },
         {
@@ -971,7 +971,7 @@
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
               "runId": "19791245507",
-              "jobId": "56707745135",
+              "jobId": "56757462529",
               "duration": "59m 3s",
               "failureStep": null,
               "failureDetails": null
@@ -980,7 +980,7 @@
               "date": "2025-12-01T00:00:00.000Z",
               "status": "none",
               "runId": "19807099789",
-              "jobId": "56751133061",
+              "jobId": "56758021606",
               "duration": "N/A",
               "failureStep": null,
               "failureDetails": null
@@ -988,10 +988,10 @@
           ],
           "failureCount": 0,
           "failedTestsInWeather": [],
-          "retried": 1,
+          "retried": 2,
           "setupRetry": false,
           "runId": "19807099789",
-          "jobId": "56751133061",
+          "jobId": "56758021606",
           "error": null
         },
         {
@@ -1001,7 +1001,7 @@
           "status": "passed",
           "duration": "17m 44s",
           "lastFailure": "Never",
-          "lastSuccess": "3h ago",
+          "lastSuccess": "6h ago",
           "weatherHistory": [
             {
               "date": "2025-11-22T00:00:00.000Z",
@@ -1079,7 +1079,7 @@
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
               "runId": "19791245507",
-              "jobId": "56707745226",
+              "jobId": "56757462547",
               "duration": "18m 2s",
               "failureStep": null,
               "failureDetails": null
@@ -1088,7 +1088,7 @@
               "date": "2025-12-01T00:00:00.000Z",
               "status": "passed",
               "runId": "19807099789",
-              "jobId": "56751133260",
+              "jobId": "56758021573",
               "duration": "17m 44s",
               "failureStep": null,
               "failureDetails": null
@@ -1096,10 +1096,10 @@
           ],
           "failureCount": 0,
           "failedTestsInWeather": [],
-          "retried": 1,
+          "retried": 2,
           "setupRetry": false,
           "runId": "19807099789",
-          "jobId": "56751133260",
+          "jobId": "56758021573",
           "error": null
         }
       ]
