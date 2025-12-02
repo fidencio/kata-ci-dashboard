@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "2025-12-02T03:54:07.113Z",
+  "lastRefresh": "2025-12-02T06:35:12.915Z",
   "sections": [
     {
       "id": "nvidia-gpu",
@@ -16,7 +16,7 @@
           "status": "passed",
           "duration": "7m 9s",
           "lastFailure": "Never",
-          "lastSuccess": "1h ago",
+          "lastSuccess": "4h ago",
           "weatherHistory": [
             {
               "date": "2025-11-23T00:00:00.000Z",
@@ -124,7 +124,7 @@
           "status": "passed",
           "duration": "15m 26s",
           "lastFailure": "Never",
-          "lastSuccess": "1h ago",
+          "lastSuccess": "4h ago",
           "weatherHistory": [
             {
               "date": "2025-11-23T00:00:00.000Z",
@@ -242,7 +242,7 @@
           "status": "passed",
           "duration": "52m 46s",
           "lastFailure": "3 days ago",
-          "lastSuccess": "2h ago",
+          "lastSuccess": "4h ago",
           "weatherHistory": [
             {
               "date": "2025-11-23T00:00:00.000Z",
@@ -347,10 +347,10 @@
           "id": "amd-sev-snp-with-nydus-snapshotter",
           "name": "AMD SEV-SNP with nydus snapshotter",
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-on-tee (sev-snp, qemu-snp)",
-          "status": "running",
-          "duration": "N/A",
+          "status": "passed",
+          "duration": "39m 29s",
           "lastFailure": "2 days ago",
-          "lastSuccess": "10h ago",
+          "lastSuccess": "2h ago",
           "weatherHistory": [
             {
               "date": "2025-11-23T00:00:00.000Z",
@@ -435,10 +435,10 @@
             },
             {
               "date": "2025-12-02T00:00:00.000Z",
-              "status": "none",
+              "status": "passed",
               "runId": "19842007041",
               "jobId": "56864635900",
-              "duration": "N/A",
+              "duration": "39m 29s",
               "failureStep": null,
               "failureDetails": null
             }
@@ -455,10 +455,10 @@
           "id": "intel-tdx-with-nydus-snapshotter",
           "name": "Intel TDX with nydus snapshotter",
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-on-tee (tdx, qemu-tdx)",
-          "status": "running",
-          "duration": "N/A",
+          "status": "passed",
+          "duration": "38m 1s",
           "lastFailure": "Never",
-          "lastSuccess": "Yesterday",
+          "lastSuccess": "2h ago",
           "weatherHistory": [
             {
               "date": "2025-11-23T00:00:00.000Z",
@@ -543,10 +543,10 @@
             },
             {
               "date": "2025-12-02T00:00:00.000Z",
-              "status": "none",
+              "status": "passed",
               "runId": "19842007041",
               "jobId": "56864635896",
-              "duration": "N/A",
+              "duration": "38m 1s",
               "failureStep": null,
               "failureDetails": null
             }
@@ -566,7 +566,7 @@
           "status": "passed",
           "duration": "23m 48s",
           "lastFailure": "3 days ago",
-          "lastSuccess": "2h ago",
+          "lastSuccess": "5h ago",
           "weatherHistory": [
             {
               "date": "2025-11-23T00:00:00.000Z",
@@ -674,7 +674,7 @@
           "status": "passed",
           "duration": "15m 26s",
           "lastFailure": "Never",
-          "lastSuccess": "1h ago",
+          "lastSuccess": "4h ago",
           "weatherHistory": [
             {
               "date": "2025-11-23T00:00:00.000Z",
@@ -782,7 +782,7 @@
           "status": "passed",
           "duration": "41m 46s",
           "lastFailure": "Never",
-          "lastSuccess": "2h ago",
+          "lastSuccess": "4h ago",
           "weatherHistory": [
             {
               "date": "2025-11-23T00:00:00.000Z",
@@ -890,7 +890,7 @@
           "status": "passed",
           "duration": "59m 31s",
           "lastFailure": "Never",
-          "lastSuccess": "1h ago",
+          "lastSuccess": "3h ago",
           "weatherHistory": [
             {
               "date": "2025-11-23T00:00:00.000Z",
@@ -998,7 +998,7 @@
           "status": "passed",
           "duration": "17m 58s",
           "lastFailure": "Never",
-          "lastSuccess": "2h ago",
+          "lastSuccess": "4h ago",
           "weatherHistory": [
             {
               "date": "2025-11-23T00:00:00.000Z",
