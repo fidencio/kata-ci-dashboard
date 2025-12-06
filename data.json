@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "2025-12-06T01:30:14.685Z",
+  "lastRefresh": "2025-12-06T03:44:51.763Z",
   "sections": [
     {
       "id": "nvidia-gpu",
@@ -16,7 +16,7 @@
           "status": "passed",
           "duration": "8m 24s",
           "lastFailure": "Never",
-          "lastSuccess": "1h ago",
+          "lastSuccess": "3h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -123,8 +123,8 @@
           "fullName": "kata-containers-ci-on-push / run-k8s-tests-on-nvidia-gpu / run-nvidia-gpu-snp-tests-on-amd64",
           "status": "passed",
           "duration": "17m 46s",
-          "lastFailure": "20h ago",
-          "lastSuccess": "1h ago",
+          "lastFailure": "22h ago",
+          "lastSuccess": "3h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -242,7 +242,7 @@
           "status": "passed",
           "duration": "48m 59s",
           "lastFailure": "2 days ago",
-          "lastSuccess": "1h ago",
+          "lastSuccess": "3h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -350,7 +350,7 @@
           "status": "running",
           "duration": "N/A",
           "lastFailure": "6 days ago",
-          "lastSuccess": "18h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -457,8 +457,8 @@
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-on-tee (tdx, qemu-tdx)",
           "status": "passed",
           "duration": "37m 39s",
-          "lastFailure": "18h ago",
-          "lastSuccess": "Just now",
+          "lastFailure": "20h ago",
+          "lastSuccess": "2h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -566,7 +566,7 @@
           "status": "passed",
           "duration": "22m 4s",
           "lastFailure": "11/29/2025",
-          "lastSuccess": "Just now",
+          "lastSuccess": "3h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -673,8 +673,8 @@
           "fullName": "kata-containers-ci-on-push / run-k8s-tests-on-nvidia-gpu / run-nvidia-gpu-snp-tests-on-amd64",
           "status": "passed",
           "duration": "17m 46s",
-          "lastFailure": "20h ago",
-          "lastSuccess": "1h ago",
+          "lastFailure": "22h ago",
+          "lastSuccess": "3h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -782,7 +782,7 @@
           "status": "passed",
           "duration": "38m 54s",
           "lastFailure": "Never",
-          "lastSuccess": "1h ago",
+          "lastSuccess": "3h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -887,10 +887,10 @@
           "id": "non-tee-with-runtime-rs-and-nydus-snapshotter",
           "name": "non-TEE with runtime-rs and nydus snapshotter",
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-coco-nontee (qemu-coco-dev-runtime-rs, nydus, guest-pull)",
-          "status": "running",
-          "duration": "N/A",
+          "status": "passed",
+          "duration": "61m 47s",
           "lastFailure": "Never",
-          "lastSuccess": "Yesterday",
+          "lastSuccess": "3h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -975,10 +975,10 @@
             },
             {
               "date": "2025-12-06T00:00:00.000Z",
-              "status": "none",
+              "status": "passed",
               "runId": "19979653999",
               "jobId": "57304154215",
-              "duration": "N/A",
+              "duration": "61m 47s",
               "failureStep": null,
               "failureDetails": null
             }
@@ -998,7 +998,7 @@
           "status": "passed",
           "duration": "18m 16s",
           "lastFailure": "Never",
-          "lastSuccess": "1h ago",
+          "lastSuccess": "3h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
