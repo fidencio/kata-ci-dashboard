@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "2025-12-06T15:20:51.933Z",
+  "lastRefresh": "2025-12-06T21:19:46.914Z",
   "sections": [
     {
       "id": "nvidia-gpu",
@@ -16,7 +16,7 @@
           "status": "passed",
           "duration": "8m 24s",
           "lastFailure": "Never",
-          "lastSuccess": "14h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -124,7 +124,7 @@
           "status": "passed",
           "duration": "17m 46s",
           "lastFailure": "Yesterday",
-          "lastSuccess": "14h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -242,7 +242,7 @@
           "status": "passed",
           "duration": "48m 59s",
           "lastFailure": "2 days ago",
-          "lastSuccess": "14h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -347,9 +347,9 @@
           "id": "amd-sev-snp-with-nydus-snapshotter",
           "name": "AMD SEV-SNP with nydus snapshotter",
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-on-tee (sev-snp, qemu-snp)",
-          "status": "running",
-          "duration": "N/A",
-          "lastFailure": "6 days ago",
+          "status": "failed",
+          "duration": "104m 15s",
+          "lastFailure": "5h ago",
           "lastSuccess": "Yesterday",
           "weatherHistory": [
             {
@@ -435,21 +435,24 @@
             },
             {
               "date": "2025-12-06T00:00:00.000Z",
-              "status": "none",
+              "status": "failed",
               "runId": "19979653999",
               "jobId": "57326179771",
-              "duration": "N/A",
-              "failureStep": null,
+              "duration": "104m 15s",
+              "failureStep": "Run tests",
               "failureDetails": null
             }
           ],
-          "failureCount": 3,
+          "failureCount": 4,
           "failedTestsInWeather": [],
           "retried": 1,
           "setupRetry": false,
           "runId": "19979653999",
           "jobId": "57326179771",
-          "error": null
+          "error": {
+            "step": "Run tests",
+            "output": "View full log on GitHub for details"
+          }
         },
         {
           "id": "intel-tdx-with-nydus-snapshotter",
@@ -458,7 +461,7 @@
           "status": "passed",
           "duration": "37m 39s",
           "lastFailure": "Yesterday",
-          "lastSuccess": "14h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -566,7 +569,7 @@
           "status": "passed",
           "duration": "22m 4s",
           "lastFailure": "11/29/2025",
-          "lastSuccess": "14h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -674,7 +677,7 @@
           "status": "passed",
           "duration": "17m 46s",
           "lastFailure": "Yesterday",
-          "lastSuccess": "14h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -782,7 +785,7 @@
           "status": "passed",
           "duration": "38m 54s",
           "lastFailure": "Never",
-          "lastSuccess": "14h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -890,7 +893,7 @@
           "status": "passed",
           "duration": "61m 47s",
           "lastFailure": "Never",
-          "lastSuccess": "14h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
@@ -998,7 +1001,7 @@
           "status": "passed",
           "duration": "18m 16s",
           "lastFailure": "Never",
-          "lastSuccess": "14h ago",
+          "lastSuccess": "20h ago",
           "weatherHistory": [
             {
               "date": "2025-11-27T00:00:00.000Z",
