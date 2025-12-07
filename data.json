@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "2025-12-07T09:21:25.380Z",
+  "lastRefresh": "2025-12-07T12:40:08.229Z",
   "sections": [
     {
       "id": "nvidia-gpu",
@@ -16,7 +16,7 @@
           "status": "passed",
           "duration": "8m 4s",
           "lastFailure": "Never",
-          "lastSuccess": "8h ago",
+          "lastSuccess": "12h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -103,7 +103,7 @@
               "date": "2025-12-07T00:00:00.000Z",
               "status": "passed",
               "runId": "19996270977",
-              "jobId": "57344626323",
+              "jobId": "57360192775",
               "duration": "8m 4s",
               "failureStep": null,
               "failureDetails": null
@@ -111,20 +111,20 @@
           ],
           "failureCount": 0,
           "failedTestsInWeather": [],
-          "retried": 0,
+          "retried": 1,
           "setupRetry": false,
           "runId": "19996270977",
-          "jobId": "57344626323",
+          "jobId": "57360192775",
           "error": null
         },
         {
           "id": "nvidia-gpu---snp--confidential--tests-on-h100",
           "name": "NVIDIA GPU + SNP (Confidential) tests on H100",
           "fullName": "kata-containers-ci-on-push / run-k8s-tests-on-nvidia-gpu / run-nvidia-gpu-snp-tests-on-amd64",
-          "status": "failed",
-          "duration": "24m 19s",
-          "lastFailure": "8h ago",
-          "lastSuccess": "Yesterday",
+          "status": "passed",
+          "duration": "19m 17s",
+          "lastFailure": "2 days ago",
+          "lastSuccess": "2h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -209,24 +209,21 @@
             },
             {
               "date": "2025-12-07T00:00:00.000Z",
-              "status": "failed",
+              "status": "passed",
               "runId": "19996270977",
-              "jobId": "57344626319",
-              "duration": "24m 19s",
-              "failureStep": "Run tests qemu-nvidia-gpu-snp",
+              "jobId": "57360192770",
+              "duration": "19m 17s",
+              "failureStep": null,
               "failureDetails": null
             }
           ],
-          "failureCount": 2,
+          "failureCount": 1,
           "failedTestsInWeather": [],
-          "retried": 0,
+          "retried": 1,
           "setupRetry": false,
           "runId": "19996270977",
-          "jobId": "57344626319",
-          "error": {
-            "step": "Run tests qemu-nvidia-gpu-snp",
-            "output": "View full log on GitHub for details"
-          }
+          "jobId": "57360192770",
+          "error": null
         }
       ]
     },
@@ -245,7 +242,7 @@
           "status": "passed",
           "duration": "55m 29s",
           "lastFailure": "3 days ago",
-          "lastSuccess": "8h ago",
+          "lastSuccess": "12h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -332,7 +329,7 @@
               "date": "2025-12-07T00:00:00.000Z",
               "status": "passed",
               "runId": "19996270977",
-              "jobId": "57344626344",
+              "jobId": "57360192942",
               "duration": "55m 29s",
               "failureStep": null,
               "failureDetails": null
@@ -340,10 +337,10 @@
           ],
           "failureCount": 2,
           "failedTestsInWeather": [],
-          "retried": 0,
+          "retried": 1,
           "setupRetry": false,
           "runId": "19996270977",
-          "jobId": "57344626344",
+          "jobId": "57360192942",
           "error": null
         },
         {
@@ -352,7 +349,7 @@
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-on-tee (sev-snp, qemu-snp)",
           "status": "failed",
           "duration": "104m 25s",
-          "lastFailure": "8h ago",
+          "lastFailure": "12h ago",
           "lastSuccess": "2 days ago",
           "weatherHistory": [
             {
@@ -440,7 +437,7 @@
               "date": "2025-12-07T00:00:00.000Z",
               "status": "failed",
               "runId": "19996270977",
-              "jobId": "57344626342",
+              "jobId": "57360192734",
               "duration": "104m 25s",
               "failureStep": "Run tests",
               "failureDetails": null
@@ -448,10 +445,10 @@
           ],
           "failureCount": 4,
           "failedTestsInWeather": [],
-          "retried": 0,
+          "retried": 1,
           "setupRetry": false,
           "runId": "19996270977",
-          "jobId": "57344626342",
+          "jobId": "57360192734",
           "error": {
             "step": "Run tests",
             "output": "View full log on GitHub for details"
@@ -464,7 +461,7 @@
           "status": "passed",
           "duration": "38m 53s",
           "lastFailure": "2 days ago",
-          "lastSuccess": "8h ago",
+          "lastSuccess": "12h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -551,7 +548,7 @@
               "date": "2025-12-07T00:00:00.000Z",
               "status": "passed",
               "runId": "19996270977",
-              "jobId": "57344626335",
+              "jobId": "57360192948",
               "duration": "38m 53s",
               "failureStep": null,
               "failureDetails": null
@@ -559,10 +556,10 @@
           ],
           "failureCount": 1,
           "failedTestsInWeather": [],
-          "retried": 0,
+          "retried": 1,
           "setupRetry": false,
           "runId": "19996270977",
-          "jobId": "57344626335",
+          "jobId": "57360192948",
           "error": null
         },
         {
@@ -572,7 +569,7 @@
           "status": "passed",
           "duration": "21m 34s",
           "lastFailure": "11/29/2025",
-          "lastSuccess": "8h ago",
+          "lastSuccess": "11h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -659,7 +656,7 @@
               "date": "2025-12-07T00:00:00.000Z",
               "status": "passed",
               "runId": "19996270977",
-              "jobId": "57344905033",
+              "jobId": "57360192212",
               "duration": "21m 34s",
               "failureStep": null,
               "failureDetails": null
@@ -667,20 +664,20 @@
           ],
           "failureCount": 1,
           "failedTestsInWeather": [],
-          "retried": 0,
+          "retried": 1,
           "setupRetry": false,
           "runId": "19996270977",
-          "jobId": "57344905033",
+          "jobId": "57360192212",
           "error": null
         },
         {
           "id": "nvidia-cc-gpu---amd-snp-with-force-guest-pull",
           "name": "NVIDIA CC GPU + AMD SNP with force guest pull",
           "fullName": "kata-containers-ci-on-push / run-k8s-tests-on-nvidia-gpu / run-nvidia-gpu-snp-tests-on-amd64",
-          "status": "failed",
-          "duration": "24m 19s",
-          "lastFailure": "8h ago",
-          "lastSuccess": "Yesterday",
+          "status": "passed",
+          "duration": "19m 17s",
+          "lastFailure": "2 days ago",
+          "lastSuccess": "2h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -765,24 +762,21 @@
             },
             {
               "date": "2025-12-07T00:00:00.000Z",
-              "status": "failed",
+              "status": "passed",
               "runId": "19996270977",
-              "jobId": "57344626319",
-              "duration": "24m 19s",
-              "failureStep": "Run tests qemu-nvidia-gpu-snp",
+              "jobId": "57360192770",
+              "duration": "19m 17s",
+              "failureStep": null,
               "failureDetails": null
             }
           ],
-          "failureCount": 2,
+          "failureCount": 1,
           "failedTestsInWeather": [],
-          "retried": 0,
+          "retried": 1,
           "setupRetry": false,
           "runId": "19996270977",
-          "jobId": "57344626319",
-          "error": {
-            "step": "Run tests qemu-nvidia-gpu-snp",
-            "output": "View full log on GitHub for details"
-          }
+          "jobId": "57360192770",
+          "error": null
         },
         {
           "id": "non-tee-with-force-guest-pull",
@@ -791,7 +785,7 @@
           "status": "passed",
           "duration": "44m 34s",
           "lastFailure": "Never",
-          "lastSuccess": "8h ago",
+          "lastSuccess": "12h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -878,7 +872,7 @@
               "date": "2025-12-07T00:00:00.000Z",
               "status": "passed",
               "runId": "19996270977",
-              "jobId": "57344626343",
+              "jobId": "57360192837",
               "duration": "44m 34s",
               "failureStep": null,
               "failureDetails": null
@@ -886,10 +880,10 @@
           ],
           "failureCount": 0,
           "failedTestsInWeather": [],
-          "retried": 0,
+          "retried": 1,
           "setupRetry": false,
           "runId": "19996270977",
-          "jobId": "57344626343",
+          "jobId": "57360192837",
           "error": null
         },
         {
@@ -898,7 +892,7 @@
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-coco-nontee (qemu-coco-dev-runtime-rs, nydus, guest-pull)",
           "status": "failed",
           "duration": "90m 5s",
-          "lastFailure": "8h ago",
+          "lastFailure": "12h ago",
           "lastSuccess": "Yesterday",
           "weatherHistory": [
             {
@@ -986,7 +980,7 @@
               "date": "2025-12-07T00:00:00.000Z",
               "status": "failed",
               "runId": "19996270977",
-              "jobId": "57344626348",
+              "jobId": "57360192864",
               "duration": "90m 5s",
               "failureStep": "Run tests",
               "failureDetails": null
@@ -994,10 +988,10 @@
           ],
           "failureCount": 1,
           "failedTestsInWeather": [],
-          "retried": 0,
+          "retried": 1,
           "setupRetry": false,
           "runId": "19996270977",
-          "jobId": "57344626348",
+          "jobId": "57360192864",
           "error": {
             "step": "Run tests",
             "output": "View full log on GitHub for details"
@@ -1010,7 +1004,7 @@
           "status": "passed",
           "duration": "15m 49s",
           "lastFailure": "Never",
-          "lastSuccess": "8h ago",
+          "lastSuccess": "12h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -1097,7 +1091,7 @@
               "date": "2025-12-07T00:00:00.000Z",
               "status": "passed",
               "runId": "19996270977",
-              "jobId": "57344626370",
+              "jobId": "57360192918",
               "duration": "15m 49s",
               "failureStep": null,
               "failureDetails": null
@@ -1105,10 +1099,10 @@
           ],
           "failureCount": 0,
           "failedTestsInWeather": [],
-          "retried": 0,
+          "retried": 1,
           "setupRetry": false,
           "runId": "19996270977",
-          "jobId": "57344626370",
+          "jobId": "57360192918",
           "error": null
         }
       ]
