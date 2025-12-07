@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "2025-12-07T12:40:08.229Z",
+  "lastRefresh": "2025-12-07T15:20:20.058Z",
   "sections": [
     {
       "id": "nvidia-gpu",
@@ -16,7 +16,7 @@
           "status": "passed",
           "duration": "8m 4s",
           "lastFailure": "Never",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "14h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -124,7 +124,7 @@
           "status": "passed",
           "duration": "19m 17s",
           "lastFailure": "2 days ago",
-          "lastSuccess": "2h ago",
+          "lastSuccess": "5h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -242,7 +242,7 @@
           "status": "passed",
           "duration": "55m 29s",
           "lastFailure": "3 days ago",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "14h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -349,7 +349,7 @@
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-on-tee (sev-snp, qemu-snp)",
           "status": "failed",
           "duration": "104m 25s",
-          "lastFailure": "12h ago",
+          "lastFailure": "14h ago",
           "lastSuccess": "2 days ago",
           "weatherHistory": [
             {
@@ -461,7 +461,7 @@
           "status": "passed",
           "duration": "38m 53s",
           "lastFailure": "2 days ago",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "14h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -569,7 +569,7 @@
           "status": "passed",
           "duration": "21m 34s",
           "lastFailure": "11/29/2025",
-          "lastSuccess": "11h ago",
+          "lastSuccess": "14h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -677,7 +677,7 @@
           "status": "passed",
           "duration": "19m 17s",
           "lastFailure": "2 days ago",
-          "lastSuccess": "2h ago",
+          "lastSuccess": "5h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -785,7 +785,7 @@
           "status": "passed",
           "duration": "44m 34s",
           "lastFailure": "Never",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "14h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
@@ -892,7 +892,7 @@
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-coco-nontee (qemu-coco-dev-runtime-rs, nydus, guest-pull)",
           "status": "failed",
           "duration": "90m 5s",
-          "lastFailure": "12h ago",
+          "lastFailure": "14h ago",
           "lastSuccess": "Yesterday",
           "weatherHistory": [
             {
@@ -1004,7 +1004,7 @@
           "status": "passed",
           "duration": "15m 49s",
           "lastFailure": "Never",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "14h ago",
           "weatherHistory": [
             {
               "date": "2025-11-28T00:00:00.000Z",
