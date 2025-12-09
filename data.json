@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "2025-12-08T12:45:36.048Z",
+  "lastRefresh": "2025-12-09T01:43:21.187Z",
   "sections": [
     {
       "id": "nvidia-gpu",
@@ -14,19 +14,10 @@
           "name": "NVIDIA GPU tests on A100",
           "fullName": "kata-containers-ci-on-push / run-k8s-tests-on-nvidia-gpu / run-nvidia-gpu-tests-on-amd64",
           "status": "passed",
-          "duration": "8m 36s",
+          "duration": "8m 23s",
           "lastFailure": "Never",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "1h ago",
           "weatherHistory": [
-            {
-              "date": "2025-11-29T00:00:00.000Z",
-              "status": "passed",
-              "runId": "19776214950",
-              "jobId": "56669441491",
-              "duration": "7m 0s",
-              "failureStep": null,
-              "failureDetails": null
-            },
             {
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
@@ -48,9 +39,9 @@
             {
               "date": "2025-12-02T00:00:00.000Z",
               "status": "passed",
-              "runId": null,
-              "jobId": null,
-              "duration": null,
+              "runId": "19842007041",
+              "jobId": "56864635016",
+              "duration": "7m 9s",
               "failureStep": null,
               "failureDetails": null
             },
@@ -103,8 +94,17 @@
               "date": "2025-12-08T00:00:00.000Z",
               "status": "passed",
               "runId": "20012631698",
-              "jobId": "57384968911",
+              "jobId": "57460462272",
               "duration": "8m 36s",
+              "failureStep": null,
+              "failureDetails": null
+            },
+            {
+              "date": "2025-12-09T00:00:00.000Z",
+              "status": "passed",
+              "runId": "20047261443",
+              "jobId": "57496477476",
+              "duration": "8m 23s",
               "failureStep": null,
               "failureDetails": null
             }
@@ -113,8 +113,8 @@
           "failedTestsInWeather": [],
           "retried": 0,
           "setupRetry": false,
-          "runId": "20012631698",
-          "jobId": "57384968911",
+          "runId": "20047261443",
+          "jobId": "57496477476",
           "error": null
         },
         {
@@ -122,19 +122,10 @@
           "name": "NVIDIA GPU + SNP (Confidential) tests on H100",
           "fullName": "kata-containers-ci-on-push / run-k8s-tests-on-nvidia-gpu / run-nvidia-gpu-snp-tests-on-amd64",
           "status": "passed",
-          "duration": "17m 45s",
+          "duration": "16m 54s",
           "lastFailure": "3 days ago",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "1h ago",
           "weatherHistory": [
-            {
-              "date": "2025-11-29T00:00:00.000Z",
-              "status": "passed",
-              "runId": "19776214950",
-              "jobId": "56669441493",
-              "duration": "15m 39s",
-              "failureStep": null,
-              "failureDetails": null
-            },
             {
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
@@ -156,9 +147,9 @@
             {
               "date": "2025-12-02T00:00:00.000Z",
               "status": "passed",
-              "runId": null,
-              "jobId": null,
-              "duration": null,
+              "runId": "19842007041",
+              "jobId": "56864635130",
+              "duration": "15m 26s",
               "failureStep": null,
               "failureDetails": null
             },
@@ -211,8 +202,17 @@
               "date": "2025-12-08T00:00:00.000Z",
               "status": "passed",
               "runId": "20012631698",
-              "jobId": "57384968917",
+              "jobId": "57460462166",
               "duration": "17m 45s",
+              "failureStep": null,
+              "failureDetails": null
+            },
+            {
+              "date": "2025-12-09T00:00:00.000Z",
+              "status": "passed",
+              "runId": "20047261443",
+              "jobId": "57496477461",
+              "duration": "16m 54s",
               "failureStep": null,
               "failureDetails": null
             }
@@ -221,8 +221,8 @@
           "failedTestsInWeather": [],
           "retried": 0,
           "setupRetry": false,
-          "runId": "20012631698",
-          "jobId": "57384968917",
+          "runId": "20047261443",
+          "jobId": "57496477461",
           "error": null
         }
       ]
@@ -240,19 +240,10 @@
           "name": "non-TEE with nydus snapshotter",
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-coco-nontee (qemu-coco-dev, nydus, guest-pull)",
           "status": "passed",
-          "duration": "52m 34s",
-          "lastFailure": "4 days ago",
-          "lastSuccess": "12h ago",
+          "duration": "53m 40s",
+          "lastFailure": "5 days ago",
+          "lastSuccess": "1h ago",
           "weatherHistory": [
-            {
-              "date": "2025-11-29T00:00:00.000Z",
-              "status": "failed",
-              "runId": "19776214950",
-              "jobId": "56669441505",
-              "duration": "61m 14s",
-              "failureStep": "Run tests",
-              "failureDetails": null
-            },
             {
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
@@ -274,9 +265,9 @@
             {
               "date": "2025-12-02T00:00:00.000Z",
               "status": "passed",
-              "runId": null,
-              "jobId": null,
-              "duration": null,
+              "runId": "19842007041",
+              "jobId": "56864635088",
+              "duration": "52m 46s",
               "failureStep": null,
               "failureDetails": null
             },
@@ -329,38 +320,38 @@
               "date": "2025-12-08T00:00:00.000Z",
               "status": "passed",
               "runId": "20012631698",
-              "jobId": "57384968922",
+              "jobId": "57460462292",
               "duration": "52m 34s",
+              "failureStep": null,
+              "failureDetails": null
+            },
+            {
+              "date": "2025-12-09T00:00:00.000Z",
+              "status": "passed",
+              "runId": "20047261443",
+              "jobId": "57496477509",
+              "duration": "53m 40s",
               "failureStep": null,
               "failureDetails": null
             }
           ],
-          "failureCount": 2,
+          "failureCount": 1,
           "failedTestsInWeather": [],
           "retried": 0,
           "setupRetry": false,
-          "runId": "20012631698",
-          "jobId": "57384968922",
+          "runId": "20047261443",
+          "jobId": "57496477509",
           "error": null
         },
         {
           "id": "amd-sev-snp-with-nydus-snapshotter",
           "name": "AMD SEV-SNP with nydus snapshotter",
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-on-tee (sev-snp, qemu-snp)",
-          "status": "failed",
-          "duration": "104m 15s",
-          "lastFailure": "12h ago",
-          "lastSuccess": "3 days ago",
+          "status": "passed",
+          "duration": "39m 5s",
+          "lastFailure": "2 days ago",
+          "lastSuccess": "1h ago",
           "weatherHistory": [
-            {
-              "date": "2025-11-29T00:00:00.000Z",
-              "status": "failed",
-              "runId": "19776214950",
-              "jobId": "56669441522",
-              "duration": "104m 43s",
-              "failureStep": "Run tests",
-              "failureDetails": null
-            },
             {
               "date": "2025-11-30T00:00:00.000Z",
               "status": "failed",
@@ -382,9 +373,9 @@
             {
               "date": "2025-12-02T00:00:00.000Z",
               "status": "passed",
-              "runId": null,
-              "jobId": null,
-              "duration": null,
+              "runId": "19842007041",
+              "jobId": "56864635900",
+              "duration": "39m 29s",
               "failureStep": null,
               "failureDetails": null
             },
@@ -435,43 +426,40 @@
             },
             {
               "date": "2025-12-08T00:00:00.000Z",
-              "status": "failed",
+              "status": "passed",
               "runId": "20012631698",
-              "jobId": "57384968919",
-              "duration": "104m 15s",
-              "failureStep": "Run tests",
+              "jobId": "57460462176",
+              "duration": "38m 55s",
+              "failureStep": null,
+              "failureDetails": null
+            },
+            {
+              "date": "2025-12-09T00:00:00.000Z",
+              "status": "passed",
+              "runId": "20047261443",
+              "jobId": "57496477472",
+              "duration": "39m 5s",
+              "failureStep": null,
               "failureDetails": null
             }
           ],
-          "failureCount": 5,
+          "failureCount": 3,
           "failedTestsInWeather": [],
           "retried": 0,
           "setupRetry": false,
-          "runId": "20012631698",
-          "jobId": "57384968919",
-          "error": {
-            "step": "Run tests",
-            "output": "View full log on GitHub for details"
-          }
+          "runId": "20047261443",
+          "jobId": "57496477472",
+          "error": null
         },
         {
           "id": "intel-tdx-with-nydus-snapshotter",
           "name": "Intel TDX with nydus snapshotter",
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-on-tee (tdx, qemu-tdx)",
           "status": "passed",
-          "duration": "41m 37s",
+          "duration": "42m 58s",
           "lastFailure": "3 days ago",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "1h ago",
           "weatherHistory": [
-            {
-              "date": "2025-11-29T00:00:00.000Z",
-              "status": "passed",
-              "runId": "19776214950",
-              "jobId": "56669441517",
-              "duration": "39m 33s",
-              "failureStep": null,
-              "failureDetails": null
-            },
             {
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
@@ -493,9 +481,9 @@
             {
               "date": "2025-12-02T00:00:00.000Z",
               "status": "passed",
-              "runId": null,
-              "jobId": null,
-              "duration": null,
+              "runId": "19842007041",
+              "jobId": "56864635896",
+              "duration": "38m 1s",
               "failureStep": null,
               "failureDetails": null
             },
@@ -548,8 +536,17 @@
               "date": "2025-12-08T00:00:00.000Z",
               "status": "passed",
               "runId": "20012631698",
-              "jobId": "57384968912",
+              "jobId": "57460462210",
               "duration": "41m 37s",
+              "failureStep": null,
+              "failureDetails": null
+            },
+            {
+              "date": "2025-12-09T00:00:00.000Z",
+              "status": "passed",
+              "runId": "20047261443",
+              "jobId": "57496477471",
+              "duration": "42m 58s",
               "failureStep": null,
               "failureDetails": null
             }
@@ -558,28 +555,19 @@
           "failedTestsInWeather": [],
           "retried": 0,
           "setupRetry": false,
-          "runId": "20012631698",
-          "jobId": "57384968912",
+          "runId": "20047261443",
+          "jobId": "57496477471",
           "error": null
         },
         {
           "id": "ibm-zvsi-with-nydus-snapshotter",
           "name": "IBM zVSI with nydus snapshotter",
           "fullName": "kata-containers-ci-on-push / run-k8s-tests-on-zvsi / run-k8s-tests (nydus, qemu-coco-dev, kubeadm)",
-          "status": "passed",
-          "duration": "23m 25s",
-          "lastFailure": "11/29/2025",
-          "lastSuccess": "12h ago",
+          "status": "failed",
+          "duration": "21m 46s",
+          "lastFailure": "1h ago",
+          "lastSuccess": "Yesterday",
           "weatherHistory": [
-            {
-              "date": "2025-11-29T00:00:00.000Z",
-              "status": "failed",
-              "runId": "19776214950",
-              "jobId": "56669517016",
-              "duration": "25m 5s",
-              "failureStep": "Run tests",
-              "failureDetails": null
-            },
             {
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
@@ -601,9 +589,9 @@
             {
               "date": "2025-12-02T00:00:00.000Z",
               "status": "passed",
-              "runId": null,
-              "jobId": null,
-              "duration": null,
+              "runId": "19842007041",
+              "jobId": "56864650268",
+              "duration": "23m 48s",
               "failureStep": null,
               "failureDetails": null
             },
@@ -656,9 +644,18 @@
               "date": "2025-12-08T00:00:00.000Z",
               "status": "passed",
               "runId": "20012631698",
-              "jobId": "57385099931",
+              "jobId": "57460462301",
               "duration": "23m 25s",
               "failureStep": null,
+              "failureDetails": null
+            },
+            {
+              "date": "2025-12-09T00:00:00.000Z",
+              "status": "failed",
+              "runId": "20047261443",
+              "jobId": "57496569395",
+              "duration": "21m 46s",
+              "failureStep": "Run tests",
               "failureDetails": null
             }
           ],
@@ -666,28 +663,22 @@
           "failedTestsInWeather": [],
           "retried": 0,
           "setupRetry": false,
-          "runId": "20012631698",
-          "jobId": "57385099931",
-          "error": null
+          "runId": "20047261443",
+          "jobId": "57496569395",
+          "error": {
+            "step": "Run tests",
+            "output": "View full log on GitHub for details"
+          }
         },
         {
           "id": "nvidia-cc-gpu---amd-snp-with-force-guest-pull",
           "name": "NVIDIA CC GPU + AMD SNP with force guest pull",
           "fullName": "kata-containers-ci-on-push / run-k8s-tests-on-nvidia-gpu / run-nvidia-gpu-snp-tests-on-amd64",
           "status": "passed",
-          "duration": "17m 45s",
+          "duration": "16m 54s",
           "lastFailure": "3 days ago",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "1h ago",
           "weatherHistory": [
-            {
-              "date": "2025-11-29T00:00:00.000Z",
-              "status": "passed",
-              "runId": "19776214950",
-              "jobId": "56669441493",
-              "duration": "15m 39s",
-              "failureStep": null,
-              "failureDetails": null
-            },
             {
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
@@ -709,9 +700,9 @@
             {
               "date": "2025-12-02T00:00:00.000Z",
               "status": "passed",
-              "runId": null,
-              "jobId": null,
-              "duration": null,
+              "runId": "19842007041",
+              "jobId": "56864635130",
+              "duration": "15m 26s",
               "failureStep": null,
               "failureDetails": null
             },
@@ -764,8 +755,17 @@
               "date": "2025-12-08T00:00:00.000Z",
               "status": "passed",
               "runId": "20012631698",
-              "jobId": "57384968917",
+              "jobId": "57460462166",
               "duration": "17m 45s",
+              "failureStep": null,
+              "failureDetails": null
+            },
+            {
+              "date": "2025-12-09T00:00:00.000Z",
+              "status": "passed",
+              "runId": "20047261443",
+              "jobId": "57496477461",
+              "duration": "16m 54s",
               "failureStep": null,
               "failureDetails": null
             }
@@ -774,8 +774,8 @@
           "failedTestsInWeather": [],
           "retried": 0,
           "setupRetry": false,
-          "runId": "20012631698",
-          "jobId": "57384968917",
+          "runId": "20047261443",
+          "jobId": "57496477461",
           "error": null
         },
         {
@@ -783,19 +783,10 @@
           "name": "non-TEE with force guest pull",
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-coco-nontee (experimental-force-guest-pull, qemu-coco-dev)",
           "status": "passed",
-          "duration": "37m 58s",
+          "duration": "41m 40s",
           "lastFailure": "Never",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "1h ago",
           "weatherHistory": [
-            {
-              "date": "2025-11-29T00:00:00.000Z",
-              "status": "passed",
-              "runId": "19776214950",
-              "jobId": "56669441568",
-              "duration": "44m 38s",
-              "failureStep": null,
-              "failureDetails": null
-            },
             {
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
@@ -817,9 +808,9 @@
             {
               "date": "2025-12-02T00:00:00.000Z",
               "status": "passed",
-              "runId": null,
-              "jobId": null,
-              "duration": null,
+              "runId": "19842007041",
+              "jobId": "56864635114",
+              "duration": "41m 46s",
               "failureStep": null,
               "failureDetails": null
             },
@@ -872,8 +863,17 @@
               "date": "2025-12-08T00:00:00.000Z",
               "status": "passed",
               "runId": "20012631698",
-              "jobId": "57384968948",
+              "jobId": "57460462277",
               "duration": "37m 58s",
+              "failureStep": null,
+              "failureDetails": null
+            },
+            {
+              "date": "2025-12-09T00:00:00.000Z",
+              "status": "passed",
+              "runId": "20047261443",
+              "jobId": "57496477564",
+              "duration": "41m 40s",
               "failureStep": null,
               "failureDetails": null
             }
@@ -882,8 +882,8 @@
           "failedTestsInWeather": [],
           "retried": 0,
           "setupRetry": false,
-          "runId": "20012631698",
-          "jobId": "57384968948",
+          "runId": "20047261443",
+          "jobId": "57496477564",
           "error": null
         },
         {
@@ -891,19 +891,10 @@
           "name": "non-TEE with runtime-rs and nydus snapshotter",
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-coco-nontee (qemu-coco-dev-runtime-rs, nydus, guest-pull)",
           "status": "passed",
-          "duration": "59m 5s",
-          "lastFailure": "Yesterday",
-          "lastSuccess": "12h ago",
+          "duration": "52m 31s",
+          "lastFailure": "2 days ago",
+          "lastSuccess": "1h ago",
           "weatherHistory": [
-            {
-              "date": "2025-11-29T00:00:00.000Z",
-              "status": "passed",
-              "runId": "19776214950",
-              "jobId": "56669441513",
-              "duration": "52m 30s",
-              "failureStep": null,
-              "failureDetails": null
-            },
             {
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
@@ -925,9 +916,9 @@
             {
               "date": "2025-12-02T00:00:00.000Z",
               "status": "passed",
-              "runId": null,
-              "jobId": null,
-              "duration": null,
+              "runId": "19842007041",
+              "jobId": "56864635073",
+              "duration": "59m 31s",
               "failureStep": null,
               "failureDetails": null
             },
@@ -980,8 +971,17 @@
               "date": "2025-12-08T00:00:00.000Z",
               "status": "passed",
               "runId": "20012631698",
-              "jobId": "57384968914",
+              "jobId": "57460462377",
               "duration": "59m 5s",
+              "failureStep": null,
+              "failureDetails": null
+            },
+            {
+              "date": "2025-12-09T00:00:00.000Z",
+              "status": "passed",
+              "runId": "20047261443",
+              "jobId": "57496477530",
+              "duration": "52m 31s",
               "failureStep": null,
               "failureDetails": null
             }
@@ -990,8 +990,8 @@
           "failedTestsInWeather": [],
           "retried": 0,
           "setupRetry": false,
-          "runId": "20012631698",
-          "jobId": "57384968914",
+          "runId": "20047261443",
+          "jobId": "57496477530",
           "error": null
         },
         {
@@ -999,19 +999,10 @@
           "name": "non-TEE with erofs snapshotter",
           "fullName": "kata-containers-ci-on-push / run-kata-coco-tests / run-k8s-tests-coco-nontee-with-erofs-snapshotter (qemu-coco-dev, erofs, default)",
           "status": "passed",
-          "duration": "15m 5s",
+          "duration": "15m 39s",
           "lastFailure": "Never",
-          "lastSuccess": "12h ago",
+          "lastSuccess": "1h ago",
           "weatherHistory": [
-            {
-              "date": "2025-11-29T00:00:00.000Z",
-              "status": "passed",
-              "runId": "19776214950",
-              "jobId": "56669441530",
-              "duration": "18m 7s",
-              "failureStep": null,
-              "failureDetails": null
-            },
             {
               "date": "2025-11-30T00:00:00.000Z",
               "status": "passed",
@@ -1033,9 +1024,9 @@
             {
               "date": "2025-12-02T00:00:00.000Z",
               "status": "passed",
-              "runId": null,
-              "jobId": null,
-              "duration": null,
+              "runId": "19842007041",
+              "jobId": "56864635050",
+              "duration": "17m 58s",
               "failureStep": null,
               "failureDetails": null
             },
@@ -1088,8 +1079,17 @@
               "date": "2025-12-08T00:00:00.000Z",
               "status": "passed",
               "runId": "20012631698",
-              "jobId": "57384968913",
+              "jobId": "57460462436",
               "duration": "15m 5s",
+              "failureStep": null,
+              "failureDetails": null
+            },
+            {
+              "date": "2025-12-09T00:00:00.000Z",
+              "status": "passed",
+              "runId": "20047261443",
+              "jobId": "57496477496",
+              "duration": "15m 39s",
               "failureStep": null,
               "failureDetails": null
             }
@@ -1098,8 +1098,8 @@
           "failedTestsInWeather": [],
           "retried": 0,
           "setupRetry": false,
-          "runId": "20012631698",
-          "jobId": "57384968913",
+          "runId": "20047261443",
+          "jobId": "57496477496",
           "error": null
         }
       ]
